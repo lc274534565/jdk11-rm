@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java.base/java.base.iml" filepath="$PROJECT_DIR$/java.base/java.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.compiler/java.compiler.iml" filepath="$PROJECT_DIR$/java.compiler/java.compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.datatransfer/java.datatransfer.iml" filepath="$PROJECT_DIR$/java.datatransfer/java.datatransfer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.desktop/java.desktop.iml" filepath="$PROJECT_DIR$/java.desktop/java.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.instrument/java.instrument.iml" filepath="$PROJECT_DIR$/java.instrument/java.instrument.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.logging/java.logging.iml" filepath="$PROJECT_DIR$/java.logging/java.logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.management/java.management.iml" filepath="$PROJECT_DIR$/java.management/java.management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.management.rmi/java.management.rmi.iml" filepath="$PROJECT_DIR$/java.management.rmi/java.management.rmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.naming/java.naming.iml" filepath="$PROJECT_DIR$/java.naming/java.naming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.net.http/java.net.http.iml" filepath="$PROJECT_DIR$/java.net.http/java.net.http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.prefs/java.prefs.iml" filepath="$PROJECT_DIR$/java.prefs/java.prefs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.rmi/java.rmi.iml" filepath="$PROJECT_DIR$/java.rmi/java.rmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.scripting/java.scripting.iml" filepath="$PROJECT_DIR$/java.scripting/java.scripting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.se/java.se.iml" filepath="$PROJECT_DIR$/java.se/java.se.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.security.jgss/java.security.jgss.iml" filepath="$PROJECT_DIR$/java.security.jgss/java.security.jgss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.security.sasl/java.security.sasl.iml" filepath="$PROJECT_DIR$/java.security.sasl/java.security.sasl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.smartcardio/java.smartcardio.iml" filepath="$PROJECT_DIR$/java.smartcardio/java.smartcardio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.sql/java.sql.iml" filepath="$PROJECT_DIR$/java.sql/java.sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.sql.rowset/java.sql.rowset.iml" filepath="$PROJECT_DIR$/java.sql.rowset/java.sql.rowset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.transaction.xa/java.transaction.xa.iml" filepath="$PROJECT_DIR$/java.transaction.xa/java.transaction.xa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.xml/java.xml.iml" filepath="$PROJECT_DIR$/java.xml/java.xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.xml.crypto/java.xml.crypto.iml" filepath="$PROJECT_DIR$/java.xml.crypto/java.xml.crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jdk-11.0.4-src.iml" filepath="$PROJECT_DIR$/.idea/jdk-11.0.4-src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.accessibility/jdk.accessibility.iml" filepath="$PROJECT_DIR$/jdk.accessibility/jdk.accessibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.aot/jdk.aot.iml" filepath="$PROJECT_DIR$/jdk.aot/jdk.aot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.attach/jdk.attach.iml" filepath="$PROJECT_DIR$/jdk.attach/jdk.attach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.charsets/jdk.charsets.iml" filepath="$PROJECT_DIR$/jdk.charsets/jdk.charsets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.compiler/jdk.compiler.iml" filepath="$PROJECT_DIR$/jdk.compiler/jdk.compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.crypto.cryptoki/jdk.crypto.cryptoki.iml" filepath="$PROJECT_DIR$/jdk.crypto.cryptoki/jdk.crypto.cryptoki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.crypto.ec/jdk.crypto.ec.iml" filepath="$PROJECT_DIR$/jdk.crypto.ec/jdk.crypto.ec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.crypto.mscapi/jdk.crypto.mscapi.iml" filepath="$PROJECT_DIR$/jdk.crypto.mscapi/jdk.crypto.mscapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.dynalink/jdk.dynalink.iml" filepath="$PROJECT_DIR$/jdk.dynalink/jdk.dynalink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.editpad/jdk.editpad.iml" filepath="$PROJECT_DIR$/jdk.editpad/jdk.editpad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.hotspot.agent/jdk.hotspot.agent.iml" filepath="$PROJECT_DIR$/jdk.hotspot.agent/jdk.hotspot.agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.httpserver/jdk.httpserver.iml" filepath="$PROJECT_DIR$/jdk.httpserver/jdk.httpserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.internal.ed/jdk.internal.ed.iml" filepath="$PROJECT_DIR$/jdk.internal.ed/jdk.internal.ed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.internal.jvmstat/jdk.internal.jvmstat.iml" filepath="$PROJECT_DIR$/jdk.internal.jvmstat/jdk.internal.jvmstat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.internal.le/jdk.internal.le.iml" filepath="$PROJECT_DIR$/jdk.internal.le/jdk.internal.le.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.internal.opt/jdk.internal.opt.iml" filepath="$PROJECT_DIR$/jdk.internal.opt/jdk.internal.opt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.internal.vm.ci/jdk.internal.vm.ci.iml" filepath="$PROJECT_DIR$/jdk.internal.vm.ci/jdk.internal.vm.ci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.internal.vm.compiler/jdk.internal.vm.compiler.iml" filepath="$PROJECT_DIR$/jdk.internal.vm.compiler/jdk.internal.vm.compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.internal.vm.compiler.management/jdk.internal.vm.compiler.management.iml" filepath="$PROJECT_DIR$/jdk.internal.vm.compiler.management/jdk.internal.vm.compiler.management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.jartool/jdk.jartool.iml" filepath="$PROJECT_DIR$/jdk.jartool/jdk.jartool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.javadoc/jdk.javadoc.iml" filepath="$PROJECT_DIR$/jdk.javadoc/jdk.javadoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.jcmd/jdk.jcmd.iml" filepath="$PROJECT_DIR$/jdk.jcmd/jdk.jcmd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.jconsole/jdk.jconsole.iml" filepath="$PROJECT_DIR$/jdk.jconsole/jdk.jconsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.jdeps/jdk.jdeps.iml" filepath="$PROJECT_DIR$/jdk.jdeps/jdk.jdeps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.jdi/jdk.jdi.iml" filepath="$PROJECT_DIR$/jdk.jdi/jdk.jdi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.jdwp.agent/jdk.jdwp.agent.iml" filepath="$PROJECT_DIR$/jdk.jdwp.agent/jdk.jdwp.agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.jfr/jdk.jfr.iml" filepath="$PROJECT_DIR$/jdk.jfr/jdk.jfr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.jlink/jdk.jlink.iml" filepath="$PROJECT_DIR$/jdk.jlink/jdk.jlink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.jshell/jdk.jshell.iml" filepath="$PROJECT_DIR$/jdk.jshell/jdk.jshell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.jsobject/jdk.jsobject.iml" filepath="$PROJECT_DIR$/jdk.jsobject/jdk.jsobject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.jstatd/jdk.jstatd.iml" filepath="$PROJECT_DIR$/jdk.jstatd/jdk.jstatd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.localedata/jdk.localedata.iml" filepath="$PROJECT_DIR$/jdk.localedata/jdk.localedata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.management/jdk.management.iml" filepath="$PROJECT_DIR$/jdk.management/jdk.management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.management.agent/jdk.management.agent.iml" filepath="$PROJECT_DIR$/jdk.management.agent/jdk.management.agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.management.jfr/jdk.management.jfr.iml" filepath="$PROJECT_DIR$/jdk.management.jfr/jdk.management.jfr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.naming.dns/jdk.naming.dns.iml" filepath="$PROJECT_DIR$/jdk.naming.dns/jdk.naming.dns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.naming.rmi/jdk.naming.rmi.iml" filepath="$PROJECT_DIR$/jdk.naming.rmi/jdk.naming.rmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.net/jdk.net.iml" filepath="$PROJECT_DIR$/jdk.net/jdk.net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.pack/jdk.pack.iml" filepath="$PROJECT_DIR$/jdk.pack/jdk.pack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.rmic/jdk.rmic.iml" filepath="$PROJECT_DIR$/jdk.rmic/jdk.rmic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.scripting.nashorn/jdk.scripting.nashorn.iml" filepath="$PROJECT_DIR$/jdk.scripting.nashorn/jdk.scripting.nashorn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.scripting.nashorn.shell/jdk.scripting.nashorn.shell.iml" filepath="$PROJECT_DIR$/jdk.scripting.nashorn.shell/jdk.scripting.nashorn.shell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.sctp/jdk.sctp.iml" filepath="$PROJECT_DIR$/jdk.sctp/jdk.sctp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.security.auth/jdk.security.auth.iml" filepath="$PROJECT_DIR$/jdk.security.auth/jdk.security.auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.security.jgss/jdk.security.jgss.iml" filepath="$PROJECT_DIR$/jdk.security.jgss/jdk.security.jgss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.unsupported/jdk.unsupported.iml" filepath="$PROJECT_DIR$/jdk.unsupported/jdk.unsupported.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.unsupported.desktop/jdk.unsupported.desktop.iml" filepath="$PROJECT_DIR$/jdk.unsupported.desktop/jdk.unsupported.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.xml.dom/jdk.xml.dom.iml" filepath="$PROJECT_DIR$/jdk.xml.dom/jdk.xml.dom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk.zipfs/jdk.zipfs.iml" filepath="$PROJECT_DIR$/jdk.zipfs/jdk.zipfs.iml" />
+    </modules>
+  </component>
+</project>
